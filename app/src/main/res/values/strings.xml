@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Qflix</string>
+    <string name="add_source">Ajouter une source</string>
+    <string name="source_name">Nom</string>
+    <string name="source_url">URL (M3U ou lien direct)</string>
+    <string name="save">Enregistrer</string>
+    <string name="cancel">Annuler</string>
+    <string name="invalid_url">URL invalide</string>
+    <string name="settings">Sources</string>
+    <string name="tmdb_hint">TMDB activé (clé optionnelle)</string>
+    <string name="search">Recherche</string>
+    <string name="epg">EPG</string>
+</resources>
